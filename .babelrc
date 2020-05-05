@@ -1,0 +1,10 @@
+{
+  "presets": [
+    ["env", { "cacheDirectory": true }]
+  ],
+  "plugins": [
+    "transform-object-rest-spread",
+    "transform-decorators-legacy",
+    "transform-class-properties"
+  ]
+}
