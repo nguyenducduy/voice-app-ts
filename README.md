@@ -1,6 +1,8 @@
 # NativeScript-Vue Application
 
-> A native application built with NativeScript-Vue
+> A native application built with NativeScript-Vue, used to collect audio voice to train AI model.
+
+[![Watch the video](https://img.youtube.com/vi/I3rJG5V8e5w/0.jpg)](https://www.youtube.com/watch?v=I3rJG5V8e5w)
 
 ## Usage
 
